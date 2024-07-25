@@ -1,0 +1,11 @@
+.about {
+  background: linear-gradient(rgba(8, 0, 58, 0.7), rgba(8, 0, 58, 0.7)),
+    url("../assets/about.png");
+  background-repeat: no-repeat;
+  /* height: 100%; */
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: #fff;
+}
